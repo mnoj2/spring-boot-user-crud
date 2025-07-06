@@ -12,7 +12,7 @@ This project is a simple Spring Boot REST API for managing users (Create, Read, 
 
 🛠️ Tech Stack
 Java 21 (or your Java version)
-Spring Boot
+Spring Boot 
 Spring Data JPA
 MySQL
 Swagger (Springfox/OpenAPI)
