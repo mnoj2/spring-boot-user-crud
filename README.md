@@ -2,12 +2,19 @@ Spring Boot User CRUD API
 This project is a simple Spring Boot REST API for managing users (Create, Read, Update, Delete) with MySQL database and Swagger UI for API documentation.
 
 📜 Features
+
 ✅ Create User
+
 ✅ Get All Users
+
 ✅ Get User by ID
+
 ✅ Update User
+
 ✅ Delete User
+
 ✅ Error handling with custom exceptions
+
 ✅ API documentation with Swagger UI
 
 🛠️ Tech Stack
